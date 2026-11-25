@@ -13,7 +13,7 @@ ContractEmp.display_details()                   #create contractemplyoyee object
 sal2 = ContractEmp.calculate_salary()  
 print(f'Salary after bonus = {sal2}') 
 
-
+#output
 # Employee Name: abhinav
 # Basic salary: 50000
 # Salary after bonus = 51000.0
